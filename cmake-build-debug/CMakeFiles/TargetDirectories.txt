@@ -1,0 +1,3 @@
+/home/anaselwkel/CLionProjects/AskFm Project/cmake-build-debug/CMakeFiles/AskFm_Project.dir
+/home/anaselwkel/CLionProjects/AskFm Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anaselwkel/CLionProjects/AskFm Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

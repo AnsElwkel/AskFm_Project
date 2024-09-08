@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/CodeEditing/TypingAssist/Cpp/CloseBlockComment/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=CF0634EFC112294B8B5476AB9666B8E3/Shortcut/@EntryValue" value="elwkel" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Shortcut/@EntryValue" value="elwkel" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=EF9EF1216A0C1A49A7C3B3A4531534B0/Text/@EntryValue" value="#define _CRT_SECURE_NO_WARNINGS&#10;#include &lt;bits/stdc++.h&gt;&#10;#include &lt;unordered_map&gt;&#10;#include &lt;ext/pb_ds/assoc_container.hpp&gt;&#10;#include &lt;ext/pb_ds/tree_policy.hpp&gt;&#10;#define __ELWKEL__ ios_base::sync_with_stdio(false); cin.tie(nullptr);cout.tie(nullptr);&#10;#define testCase int t;cin&gt;&gt;t;while(t--)&#10;#define ll long long&#10;#define ull unsigned long long&#10;#define all(v) ((v).begin()), ((v).end())&#10;#define rall(v) ((v).rbegin()), ((v).rend())&#10;#define sz(v) ((int)((v).size()))&#10;#define INF 1000000000&#10;#define INFLL 1000000000000000000&#10;using namespace std;&#10;using namespace __gnu_pbds;&#10;template&lt;class T&gt; using ordered_set = tree&lt;T, null_type, less&lt;T&gt;, rb_tree_tag, tree_order_statistics_node_update&gt;;&#10;&#10;void solve(){&#10;    &#10;}&#10;&#10;int32_t main() {                /*____*/ __ELWKEL__ /*____*/&#10;//    testCase&#10;    solve();&#10;}" type="string" />
+  </component>
+  <component name="CMakePythonSetting">
+    <option name="pythonIntegrationState" value="YES" />
+  </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+</project>
