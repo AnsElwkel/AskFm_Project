@@ -21,4 +21,6 @@ This is a console project that similar to Ask Fm
 	○ Ask and answer questions. System support threads
 	○ Delete a question (which might be a thread)
 
+Video to show demo of project :
+	https://shorturl.at/LCSCZ
 
